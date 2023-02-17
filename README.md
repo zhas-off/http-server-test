@@ -10,7 +10,7 @@ Start the server
 go run cmd/main.go
 ```
 ## Send requests to the server with any HTTP method except "DELETE"
-http://localhost:8080/
+The server is running on the http://localhost:8080/
 ```
 {
     "method": "POST",
